@@ -12,7 +12,7 @@ Aplikasi mendukung dua tema yang bisa diganti lewat tombol di pojok kanan atas.
 
 | Light Mode | Dark Mode |
 | :---: | :---: |
-| ![Tampilan Light Mode](image/DarkMode.png) | ![Tampilan Dark Mode](image/LightMode.png) |
+| ![Tampilan Light Mode](image/LightMode.png) | ![Tampilan Dark Mode](image/DarkMode.png) |
 
 ---
 
